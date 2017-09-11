@@ -1,2 +1,2 @@
-### Reposotory for GitHub page source
-###   for user dmurrell-faulknee
+### Repository for GitHub page source
+###   for user dmurrell-faulkner
